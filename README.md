@@ -1,3 +1,3 @@
 # hello-world
-This is my second branch. 
+This is my edited branch. 
 My name is Sophia and I go to NAU
